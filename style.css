@@ -126,6 +126,7 @@ input:focus {
     border-radius: 4px;
     font-size: 16px;
     cursor: pointer;
+    margin-top: 20px;
 }
 
 .register-btn:hover {
@@ -175,7 +176,9 @@ input:focus {
         height: 80px;
     }
 
-    
+    #dob {
+        width: 100%;
+    }
 
 }
 
